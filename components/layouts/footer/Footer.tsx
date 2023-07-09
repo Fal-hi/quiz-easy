@@ -27,7 +27,7 @@ export default function Footer() {
         {/* END:Row 1 */}
 
         {/* START:Row 2 */}
-        <div className="md:w-[50%]">
+        <div className="md:w-[50%] mt-4 md:mt-0">
           <section className="flex justify-between gap-8">
             <div className="block leading-9">
               <h6 className="font-bold">Kontak</h6>
