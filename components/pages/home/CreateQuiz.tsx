@@ -5,7 +5,7 @@ import Stationery from "@/public/images/stationery.png"
 
 export default function CreateQuiz() {
   return (
-    <section className="bg-[#F3E2FE] rounded-lg my-12 p-6 md:py-10 md:px-16 flex flex-col-reverse md:flex md:justify-center">
+    <section className="bg-[#F3E2FE] rounded-lg my-12 p-6 md:py-10 md:px-16 flex flex-col-reverse md:justify-center md:flex-row">
       <div className="md:w-[55%]">
         <h1 className="font-bold text-3xl text-primary text-center md:text-left">Buat Quiz Anda Sendiri</h1>
         <p className="text-[#4E4E4E] leading-7 my-4">
